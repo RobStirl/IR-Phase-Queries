@@ -1,4 +1,4 @@
-# Information-Retrieval-IR-Projects
+# Information Retrieval Projects
 # Two-Word Phase Queries
 
 First, a Boolean Incidence Matrix and an Inverted Index will be created from a large collection of text documents in a given directory.
